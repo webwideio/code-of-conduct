@@ -143,6 +143,7 @@ individual, or aggression toward or disparagement of classes of individuals.
 the community.
 
 ---
+You can contribute to this Code of Conduct by suggesting changes at https://github.com/webwideio/code-of-conduct.
 
 <sup>This CoC is adapted from Contributor Covenant v2.0 available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.</sup>
