@@ -4,7 +4,7 @@
 ## `0.` About Webwide
 Webwide is an inclusive long-form discussion board community for web designers, developers and makers. We're united by a passion for creating on the web and supporting our industry community.
 
-We welcome members from all around the world, however Webwide is an English-language platform and all posts must be in inteligable (not neccesarily perfect!) English.
+`0.1.` We welcome members from all around the world, however Webwide is an English-language platform and all posts must be in inteligable (not neccesarily perfect!) English.
 
 ## `1.` Our Pledge
 
